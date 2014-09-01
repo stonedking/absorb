@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+figure{padding 0 !important; margin:0 !important}
+
+nav ul{float: right; list-style-type: none; margin-top: 45px;}
+nav ul li{display: inline; font-family:"Helvetica Neue",Helvetica, Arial, sans-ferif; font-weight: 500; padding: 5px}
+nav ul li a{color: #fff; text-decoration: none;}
+nav ul li a:hover{border-top: 80px solid #fff; border-bottom: 6px solid #fff;}
+header figure img{float: left;}
+#icons{height: 245px; background: url(/images/icon_bg.jpg) repeat-x; margin-top: 0; padding-top: 0;}
+
+header{background: #262626; height: 100px; border-bottom: 15px solid #343533;}
+footer{background: #2bbfff; height: 390px;}
+
+#main_content p{font-size: 19px; font-family: "helvetica neue", helvetica, arial; font-weight: 300; line-height: 30px;color: #727272; margin-top: 30px; }
+#main_content h2{color: #198ec3; font-size: 25pt; font-weight: 200;}
+#sub_content{height: 500px; border-top: 7px solid #d0d0d0}
+#sub_content h2{font-size: 40px;}
+#sub_content figure img{float: left; height: 412px; width: 410px;}
+
+h1, h2, h3, p,footer span{padding-left: 30px; padding-right: 30px;}
+
+video{border-bottom: 15px solid #343533; width: 100%;}
+
+h1{margin-top: 60px;font-family:"Helvetica Light",Helvetica,Arial,sans-serif; font-weight: 100; color: #2626; font-size: 41px;}
+h1 strong{font-weight: 600;}
+h2{margin-top: 30px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; font-weight: 100;"}
+
